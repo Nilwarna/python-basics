@@ -1,11 +1,17 @@
-# python-basics
-Chapter-wise Python basics covering core concepts and practice programs
-python-basics/
-  Chapter-1-Variables/
-  Chapter-2-Strings-Conditionals/
-  Chapter-3-Lists-Tuples/
-  Chapter-4-Dictionary-Sets/
-  Chapter-5-Loops/
-  Chapter-6-Functions-Recursion/
-  Chapter-7-File-Input-Output/
-  README.md
+# Python Basics
+This repository contains my chapter-wise Python practice programs.
+
+## Topics Covered
+- Variables & Data Types
+- Strings & Conditionals
+- Lists & Tuples
+- Dictionary & Sets
+- Loops
+- Functions & Recursion
+- File Input & Output
+
+## Goal
+To build strong programming fundamentals and improve problem-solving skills.
+
+## Status
+Currently learning and updating regularly.
